@@ -1,0 +1,25 @@
+{
+    "balance": 1010.0,
+    "transactions": [
+        "Deposited: \u20b95000.0",
+        "Deposited: \u20b95000.0",
+        "Withdrawn: \u20b92000.0",
+        "Withdrawn: \u20b9456.0",
+        "Deposited: \u20b934.0",
+        {
+            "type": "Deposit",
+            "amount": 500.0,
+            "time": "2026-08-17 15:58:41"
+        },
+        {
+            "type": "Deposit",
+            "amount": 500.0,
+            "time": "2026-08-17 15:58:43"
+        },
+        {
+            "type": "Deposit",
+            "amount": 10.0,
+            "time": "2026-08-17 16:46:58"
+        }
+    ]
+}
